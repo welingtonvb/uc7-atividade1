@@ -30,3 +30,22 @@ git remote -v
 
 git clone https://github.com/welingtonvb/uc7-atividade1.git
 
+git status
+
+git add .
+
+git status
+
+git commit -m "Adicao de arquivos e alteracao do readme"
+
+git show
+
+git push -u origin main
+
+git add .
+
+git status
+
+git commit -m "Modificacao do readme"
+
+git push -u origin main
