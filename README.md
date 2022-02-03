@@ -22,3 +22,11 @@ git log
 
 git push -u origin main
 
+Lista de comandos : programador-fullstack
+
+git init
+
+git remote -v
+
+git clone https://github.com/welingtonvb/uc7-atividade1.git
+
